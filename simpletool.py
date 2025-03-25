@@ -8,6 +8,7 @@ class SimpleAI:
             "What can I do for you?",
             "How can I be of service?",
             "Hi there! Need any help?"
+            "testing"
         ]
 
     def get_response(self):
